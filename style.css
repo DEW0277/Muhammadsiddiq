@@ -1,0 +1,364 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+   
+}
+
+
+
+header{
+    display: flex;
+    background-color: gray;
+    justify-content: space-around;
+    width: 1535px;
+    height: 50px;
+}
+
+.logo{
+    font-size: 28px;
+    padding: 10px 10px;
+    margin-left: -120px;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.logo a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.ow{
+    display: flex;
+    gap: 40px;
+    padding: 15px 100px;
+}
+
+.ow li a{
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+.box{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.btn{
+    width: 28px;
+    height: 29px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+
+.btn2{
+    
+    width: 90px;
+    height: 29px;
+    margin-top: 10px;
+    margin-left: 12px;
+    border-radius: 10px;
+    border: none;
+
+
+}
+
+.box2{
+display: flex;
+padding: 150px 100px;
+gap: 150px;
+
+}
+
+.box4 img{
+width: 400px;
+height: 300px;
+
+}
+
+
+
+ .mere {
+    padding: 100px 0px;
+}
+
+.m{
+margin-top: -80px;
+
+
+}
+
+.mu img{
+background-color: black;
+    
+}
+
+
+
+.mix{
+    padding: 50px 0px;
+    
+}
+
+
+
+.box5{
+    background-color: rgb(90, 84, 84);
+    height: 800px;
+}
+
+
+
+
+.box6{
+    padding-left: 720px;
+    padding-top: 50px;
+}
+
+
+.box6 h1{
+padding: 40px 0px;
+}
+
+
+.mr{
+ padding: 10px 30px;
+ margin: 30px 670px;
+ border-radius: 20px;
+ border: none;
+}
+
+
+
+.box7{
+    margin: -500px 100px;
+}
+
+.nad h3{
+color: white;
+margin-top: 20px;
+}
+
+
+.nad button{
+width: 70px;
+height: 30px;
+border-radius: 10px;
+border: none;
+}
+
+
+.nad{
+    padding: 30px 0px;
+    text-align: center;
+}
+
+.the{
+    background-color: black;
+    height: 400px;
+}
+
+
+
+
+.kos img{
+    margin: 40px 160px;
+    width: 400px;
+  height: 120px;
+ margin: 40px 550px;
+
+}
+
+
+
+.box8{
+    background-color: gray;
+    height: 1000px;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+
+.box9{
+    text-align: center;
+    
+    padding: 40px 0px;
+    
+}
+
+
+
+.box9 p{
+   padding: 20px; 
+}
+
+
+.box9 button{
+    height: 34px;
+    width: 120px;
+    border-radius: 18px;
+    border: none;
+}
+
+
+
+.box10{
+    background-color: rgb(58, 55, 55);
+    height: 240px;
+    width: 700px;
+ margin-left: 400px;
+ border-radius: 18px;
+}
+
+
+.box11{
+    
+    background-color: rgb(58, 55, 55);
+    height: 230px;
+    width: 700px;
+ margin-left: 400px;
+ border-radius: 18px;
+ margin: 40px 400px 40px;
+}
+
+
+
+.box12{
+    background-color: rgb(58, 55, 55);
+    height: 200px;
+    width: 700px;
+ margin-left: 400px;
+ border-radius: 18px;
+}
+
+
+
+.koh{
+    display: flex;
+    gap: 140px;
+
+    
+}
+
+
+
+.kuh{
+    display: flex;
+    gap: 50px;
+    padding: 3px; 
+}
+
+
+
+.kah{
+    display: flex;
+    gap: 50px;
+    padding: 3px; 
+}
+
+
+
+
+.dab{
+    background-color: rgb(68, 65, 65);
+    padding: 50px;
+}
+
+
+
+.hab{
+    text-align: center;
+
+}
+
+
+
+
+
+.kab{
+    display: flex;
+    padding: 6px;
+    width: 1300px;
+    background-color: rgb(113, 107, 107);
+    border-radius: 20px;
+    margin: 40px 30px;
+}
+
+
+.kab button{
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.kab img{
+  width: 450px;
+  height: 300px;
+  border-radius: 23px;
+}
+
+
+.ral{
+    margin-top: -6px;
+    margin-left: 100px;
+     
+}
+
+
+.ral p{
+    padding: 40px 0px; 
+}
+
+
+
+.bak{
+    display: flex;
+    padding: 6px;
+    width: 1300px;
+    background-color: rgb(113, 107, 107);
+    border-radius: 20px;
+    margin: 40px 30px;
+}
+
+
+.bak button{
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.bak img{
+  width: 450px;
+  height: 300px;
+  border-radius: 23px;
+}
+
+
+.mel{
+    margin-top: -6px;
+    margin-left: 100px;
+     
+}
+
+
+.mel p{
+    padding: 40px 0px; 
+}
+
